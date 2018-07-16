@@ -1,0 +1,90 @@
+{
+    "Samples": {
+        "Timestamp": isofomat,{
+            "K30_Sensors":[
+                "ID": str,{"CO2_PPM":int,"other readings": },
+                "ID": str,{"CO2_PPM":int,"other readings": },
+                "ID": str,{"CO2_PPM":int,"other readings": },
+                "ID": str,{"CO2_PPM":int,"other readings": }
+            ],
+            "Imet_Sensors":[
+                 "ID": str,{
+                     "Pressure": int ,
+                     "Temperature": int,
+                     "Humidity":int, 
+                     "Date": str, 
+                     "Time": str, 
+                     "Latitude":float, 
+                     "Longitude":float, 
+                     "Altitude": float, 
+                     "Sat Count": int
+                 },
+                 "ID": str,{
+                     "Pressure": int ,
+                     "Temperature": int,
+                     "Humidity":int, 
+                     "Date": str, 
+                     "Time": str, 
+                     "Latitude":float, 
+                     "Longitude":float, 
+                     "Altitude": float, 
+                     "Sat Count": int
+                 },
+                 "ID": str,{
+                     "Pressure": int ,
+                     "Temperature": int,
+                     "Humidity":int, 
+                     "Date": str, 
+                     "Time": str, 
+                     "Latitude":float, 
+                     "Longitude":float, 
+                     "Altitude": float, 
+                     "Sat Count": int
+                 }
+            ]
+        },
+        "Timestamp": isofomat,{
+            "K30_Sensors":[
+                "ID": str,{"CO2_PPM":int,"other readings": },
+                "ID": str,{"CO2_PPM":int,"other readings": },
+                "ID": str,{"CO2_PPM":int,"other readings": },
+                "ID": str,{"CO2_PPM":int,"other readings": }
+            ],
+            "Imet_Sensors":[
+                 "ID": str,{
+                     "Pressure": int ,
+                     "Temperature": int,
+                     "Humidity":int, 
+                     "Date": str, 
+                     "Time": str, 
+                     "Latitude":float, 
+                     "Longitude":float, 
+                     "Altitude": float, 
+                     "Sat Count": int
+                 },
+                 "ID": str,{
+                     "Pressure": int ,
+                     "Temperature": int,
+                     "Humidity":int, 
+                     "Date": str, 
+                     "Time": str, 
+                     "Latitude":float, 
+                     "Longitude":float, 
+                     "Altitude": float, 
+                     "Sat Count": int
+                 },
+                 "ID": str,{
+                     "Pressure": int ,
+                     "Temperature": int,
+                     "Humidity":int, 
+                     "Date": str, 
+                     "Time": str, 
+                     "Latitude":float, 
+                     "Longitude":float, 
+                     "Altitude": float, 
+                     "Sat Count": int
+                 }
+            ]
+        }
+    }
+}

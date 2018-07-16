@@ -1,0 +1,15 @@
+CHANGES.txt
+MANIFEST.in
+README.md
+requirements.txt
+shongololo/Imet_serial.py
+shongololo/K30_serial.py
+shongololo/__init__.py
+shongololo/shongololo.py
+shongololo/start_up.py
+shongololo/sys_admin.py
+shongololo.egg-info/PKG-INFO
+shongololo.egg-info/SOURCES.txt
+shongololo.egg-info/dependency_links.txt
+shongololo.egg-info/requires.txt
+shongololo.egg-info/top_level.txt
